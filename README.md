@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Bagus - 👋
 
+
+![helloWorld](https://user-images.githubusercontent.com/24768394/90315897-300d3500-df49-11ea-8efb-6ac2b44f1ea8.gif)
+
 ### I'm a Learner, maybe Developer 😄 someday!
 
 - [x] {🌱} I’m currently learning everything 🤣
@@ -29,6 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="BagusRizkis | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BagusRizkis | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ---
