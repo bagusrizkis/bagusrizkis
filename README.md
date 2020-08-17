@@ -29,14 +29,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="BagusRizkis | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="BagusRizkis | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+>> - 🐣 [Twitter](https://twitter.com/_brizki)
+>> - 👨🏻‍🦱 [Instgram](https://www.instagram.com/bagusrizki_s/)
 
-<br />
 <br />
 
 ---
 
-
-[twitter]: https://twitter.com/_brizki
-[instagram]: https://www.instagram.com/bagusrizki_s/
