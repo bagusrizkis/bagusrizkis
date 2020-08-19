@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### I'm a Learner, maybe Developer 😄 someday!
 
 - [x] {🌱} I’m currently learning everything 🤣
-- [x] 👯 I’m looking to collaborate with anyone who has the same interest 😁
-- [ ] 🥅 2020 Goals: *-secret (do not open)-*
-- [x] ⚡ Fun fact: I love to sketch in paper 
+- [x] 👯 I’m looking to collaborate with anyone who has the same [interest](#) 😁
+- [ ] 🥅 2020 Goals: *-secret-* [please do not open](http://blank.org/)
+- [x] ⚡ Fun fact: I love to sketch in paper
 
 ---
 
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 >> - 🐣 [Twitter](https://twitter.com/_brizki)
 >> - 👨🏻‍🦱 [Instgram](https://www.instagram.com/bagusrizki_s/)
-
-<br />
 
 ---
 
