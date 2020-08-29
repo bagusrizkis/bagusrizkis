@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 ---
 
-### Connect with me:
+### 📫 How to reach me: ...
 
 > - 🐣 [Twitter](https://twitter.com/_brizki)
-> - 👨🏻‍🦱 [Instgram](https://www.instagram.com/bagusrizki_s/)
+> - 👨🏻‍🦱 [Instagram](https://www.instagram.com/bagusrizki_s/)
 
 ---
 
