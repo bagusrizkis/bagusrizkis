@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [ ] {🤔}
 
 ---
-
+<!--
 ### 📫 How to reach me: ...
 
 > - 📫 [bagus.tho@gmail.com](mailto:bagus.tho@gmail.com)
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 > - 👨🏻‍🦱 [Instagram](https://www.instagram.com/bagusrizki_s/)
 
 ---
-
+-->
