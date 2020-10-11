@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 ### ⚛️ I'm a Learner, maybe Developer 😄 someday!
 
 - [x] {🌱} I’m currently learning everything 🤣
-- [ ] {😄}
-- [ ] {⚡}
-- [ ] {🤔}
 
 ---
 <!--
