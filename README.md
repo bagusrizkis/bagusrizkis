@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### ⚛️ I'm a Learner, maybe Developer 😄 someday!
 
+- [x] {🌱} I’m currently learning everything 🤣
 ![helloWorld](https://user-images.githubusercontent.com/24768394/90315897-300d3500-df49-11ea-8efb-6ac2b44f1ea8.gif)
 -->
 
@@ -21,10 +23,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24768394/90315897-300d3500-df49-11ea-8efb-6ac2b44f1ea8.gif">
 </p>
-
-### ⚛️ I'm a Learner, maybe Developer 😄 someday!
-
-- [x] {🌱} I’m currently learning everything 🤣
 
 ---
 <!--
