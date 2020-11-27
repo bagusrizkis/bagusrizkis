@@ -23,14 +23,21 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24768394/90315897-300d3500-df49-11ea-8efb-6ac2b44f1ea8.gif">
 </p>
-
----
 <!--
 ### 📫 How to reach me: ...
 
 > - 📫 [bagus.tho@gmail.com](mailto:bagus.tho@gmail.com)
 > - 🐣 [Twitter](https://twitter.com/_brizki)
 > - 👨🏻‍🦱 [Instagram](https://www.instagram.com/bagusrizki_s/)
+
+Github Visitor
+![](https://visitor-badge.laobi.icu/badge?page_id=bagusrizkis.bagusrizkis)
+
+Github start
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusrizkis&show_icons=true&theme=tokyonight)
+
+Github most used Lang
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusrizkis&theme=tokyonight)
 
 ---
 -->
