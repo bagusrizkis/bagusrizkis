@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # 🛰️ Hi there, I'm Bagus - 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xkGkrAIbJqAtKlsZI5/giphy.gif">
+  <img src="https://media.giphy.com/media/xkGkrAIbJqAtKlsZI5/giphy.gif" width="900" alt="portfolio_view">
 </p>
 <!--
 ### 📫 How to reach me: ...
