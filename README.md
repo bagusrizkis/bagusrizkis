@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.giphy.com/media/xkGkrAIbJqAtKlsZI5/giphy.gif" width="900" alt="portfolio_view">
 </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusrizkis&show_icons=true&theme=tokyonight)
+
 <!--
 ### 📫 How to reach me: ...
 
