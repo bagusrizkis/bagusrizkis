@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/24768394/90315897-300d3500-df49-11ea-8efb-6ac2b44f1ea8.gif">
 -->
 
-# 🛰️ Hi there, I'm Bagus - 👋
+# 🛰️ Hi there, I'm Rizki - 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/xkGkrAIbJqAtKlsZI5/giphy.gif" width="900" alt="portfolio_view">
