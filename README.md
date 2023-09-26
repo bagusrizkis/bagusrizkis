@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 🛰️ Hi there, I'm Rizki - 👋 </h1>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/xkGkrAIbJqAtKlsZI5/giphy.gif" width="900" alt="portfolio_view">
-</h1>
-
 <p align="center">
 😉 - 📗 - 🌱 - 🌏 - 🦉 - 🐈 - 👨‍💻 - 🔭 - 👓 - 🤣
 </p>
