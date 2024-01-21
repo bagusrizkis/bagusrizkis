@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/24768394/90315897-300d3500-df49-11ea-8efb-6ac2b44f1ea8.gif">
 -->
 
+<!--
 <h1 align="center"> 🛰️ Hi there, I'm Rizki - 👋 </h1>
 
 <p align="center">
 😉 - 📗 - 🌱 - 🌏 - 🦉 - 🐈 - 👨‍💻 - 🔭 - 👓 - 🤣
 </p>
 
+-->
 
 <!--
 ### 📫 How to reach me: ...
